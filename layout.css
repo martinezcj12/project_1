@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    background-color: blue;
+    border: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.number1 {
+    text-align: left;
+}
+
+.number2 {
+    text-align: left;
+}
+.button {
+    text-align: left;
+}
